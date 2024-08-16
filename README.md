@@ -51,7 +51,3 @@ And now  you are good to go. If you sucsessfully extracted the project file into
 I created the php scripts according to the database, tables and column names i mentioned. If you dont want to use that you can create your own database and columns and you need to change that in the php scripts also.
 
 
-
-# Don't just copy, hit the star also😊
-
-
