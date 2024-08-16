@@ -55,14 +55,3 @@ I created the php scripts according to the database, tables and column names i m
 # Don't just copy, hit the star also😊
 
 
-
-
-# Red Stream Blood Donation Web template
-This include front end design and backend code for a blood donation based website
-
-This pack comes under Creative Commons Attribution-NonCommercial license (CC BY-NC). 
-
-~Work by Sethu Satheesh
-  
-  ©Sethu
-
